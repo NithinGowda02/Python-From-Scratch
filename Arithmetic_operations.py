@@ -1,3 +1,8 @@
+"""
+**Arithmetic Practice:**
+   Write a Python program that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers. Define the two numbers as variables within the code and print the results for each operation.
+"""
+
 first_number = 20
 second_number = 15
 print("ARITHMETIC OPERATIONS")
