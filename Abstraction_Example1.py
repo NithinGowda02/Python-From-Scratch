@@ -13,9 +13,9 @@ class Car:
         print("Car stopping")
 
 car = Car()
-car.start_engine()  # Abstracts complex internal workings
+car.start_engine()  
 car.accelerate()
 car.brake()
 
 
-#Here, `Car` abstracts internal functions like ignition and fuel management, presenting only basic methods for interaction.
+
