@@ -1,5 +1,5 @@
 class Person:
-    def __init__(self, name, age):
+    def__init__(self, name, age):
         self.name = name
         self.age = age
 
