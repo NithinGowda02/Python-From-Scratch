@@ -1,3 +1,3 @@
-num1 = int(input("enter the number"))
-num2 = int(input("enter the number"))
-print(f"Sum >> {num1 + num2}")
+n1 = int(input("enter the number"))
+n2 = int(input("enter the number"))
+print(f"Sum >> {n1 + n2}")
